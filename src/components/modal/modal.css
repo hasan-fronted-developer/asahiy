@@ -1,0 +1,39 @@
+.box{
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+
+.left-modal{
+    margin-left: 100px;
+    text-align: center;
+    display: inline-block;
+    background-color:#fff;
+    
+}
+.button-modal{
+    background-color:#3a3aff;
+    border-radius: 8px;
+    border-color: #3a3aff;
+    color: white;
+    height: 50px;
+    width: 200px;
+}
+.modal-body{
+    height: 570px;
+    width: 2000px;
+    display: flex;
+    border-radius: 10px;
+}
+.right-modal{
+    margin-left: 150px;
+    display: inline-block;
+    background-color:rgb(245, 245, 245);
+    height: 100%;
+    width: 280px;
+}
+img{
+    width: 60px;
+    margin:20px;
+}
